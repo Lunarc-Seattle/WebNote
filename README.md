@@ -1,8 +1,7 @@
 # INFO 6250: Web Development Tools and Methods - Web Note Repository
 
 **Instructor:** Brett  
-**Semester:** Fall 2023  
-**University:** Northeastern University  
+**Semester:** 2024 Spring   
 
 ---
 
@@ -29,12 +28,11 @@
 
 ## 📝 Course Overview
 
-INFO 6250 is a hands-on course that focuses on modern web development tools and methods. The course covers both frontend and backend technologies, including HTML, CSS, JavaScript, Node.js, Express.js, React, and MongoDB. Students will learn to build full-stack web applications and deploy them using industry-standard practices.
+INFO 6250 is a hands-on course that focuses on modern web development tools and methods. The course covers both frontend and backend technologies, including HTML, CSS, JavaScript, Node.js, Express.js, React. Students will learn to build full-stack web applications and deploy them using industry-standard practices.
 
 **Key Topics:**
 - Frontend Development (HTML, CSS, JavaScript, React)
 - Backend Development (Node.js, Express.js, REST APIs)
-- Database Integration (MongoDB)
 - Authentication and Security
 - Deployment and DevOps
 
@@ -92,12 +90,7 @@ INFO 6250 is a hands-on course that focuses on modern web development tools and 
   - NPM and Package Management
   - Building a Simple Server
 - **Key Takeaways:**
-  - Set up a Node.js environment.
-  - Use NPM to manage dependencies.
-- **Resources:**
-  - [Node.js Documentation](https://nodejs.org/en/docs/)
-  - [NPM Documentation](https://docs.npmjs.com/)
-
+  - 
 ---
 
 ### [Week 5: Express.js and REST APIs](./week5.md)
