@@ -40,7 +40,7 @@ INFO 6250 is a hands-on course that focuses on modern web development tools and 
 
 ## 📚 Weekly Notes
 
-### [Week 1: Introduction to Web Development](./week1.md)
+### [Week 1: Introduction to Web Development](./0201.md)
 - **Topics Covered:**
   - Overview of Web Development
   - Client-Server Architecture
