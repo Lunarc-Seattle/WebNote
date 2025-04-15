@@ -185,5 +185,4 @@ INFO 6250 is a hands-on course that focuses on modern web development tools and 
 ---
 
 ## 📂 Project Structure
-
-A typical project structure for this course might look like this:
+tbc
